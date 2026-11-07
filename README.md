@@ -1,1 +1,1 @@
-# TTRPG-Make-Play
+# TTRPG-Make-and-Play
